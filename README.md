@@ -1,4 +1,4 @@
-# newsapp
+# Habar
 Habar is simple news application using MVVM Architecture with local database caching.
 
 Tech stack
@@ -8,3 +8,4 @@ Tech stack
 - Retrofit
 - Jetpack components (Viewmodel, Room and more)
 - Navigation Component
+- Pagination
